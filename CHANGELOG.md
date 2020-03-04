@@ -1,6 +1,14 @@
 Changelog
 =========
 
+4.0.0 (Mar 3 2020)
+------------------
+
+* Update to `chokidar@3`
+* Replace `yargs` with `commander`
+* Rename to `@nikku/nunjucks`
+* Bump dependencies
+
 3.2.0 (Mar 5 2019)
 ------------------
 
