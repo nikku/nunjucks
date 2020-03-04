@@ -29,6 +29,7 @@ function runWebpack(opts) {
       var config = {
         entry: './nunjucks/index.js',
         devtool: 'source-map',
+        mode: 'production',
         output: {
           path: destDir,
           filename: filename,
