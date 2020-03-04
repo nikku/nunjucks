@@ -1,7 +1,7 @@
 {
   "name": "@nikku/nunjucks",
   "description": "A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)",
-  "version": "3.2.0",
+  "version": "4.0.0",
   "author": "James Long <longster@gmail.com>",
   "dependencies": {
     "a-sync-waterfall": "^1.0.0",
